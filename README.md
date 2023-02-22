@@ -23,4 +23,4 @@ This project is a GUI representation of the linkedlist operations using the `Qt 
 ## Diagrams
 
 ### Main layout
-![image](https://github.com/ayjzhu/LinkedList-with-GUIblob/main/docs/images/layout.PNG)
+![image](https://github.com/ayjzhu/LinkedList-with-GUI/blob/master/docs/images/Layout.PNG)
